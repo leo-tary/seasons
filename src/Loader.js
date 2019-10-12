@@ -13,7 +13,7 @@ const Loader = (props) => {
 }
 
 Loader.defaultProps = {
-    loaderText: 'Loading...'
+    loaderText: 'Loading!!...'
 }
 
 export default Loader;
