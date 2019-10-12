@@ -71,7 +71,7 @@ class App extends React.Component {
 
     }
 
-    return <Loader loaderText="Please accept the location request..."/>
+    return <Loader loaderText="Please accept the location request being sent..."/>
 
 
   }
